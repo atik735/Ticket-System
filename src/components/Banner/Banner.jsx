@@ -20,7 +20,7 @@ export default function Banner({ticketList,resolvedTask}) {
 
       <img
         src={image}
-        className="absolute inset-0 w-full h-full object-cover opacity-40"
+        className="absolute inset-0 w-full h-full object-cover opacity-40 "
       />
 
       <div className="relative text-center text-white">
