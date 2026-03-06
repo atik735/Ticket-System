@@ -10,7 +10,7 @@ export default function Banner({ticketList,resolvedTask}) {
         className="absolute inset-0 w-full h-full object-cover opacity-40"
       />
 
-      <div className="relative text-center text-white">
+      <div className="relative text-center text-white ">
         <p className="text-lg">In-Progress</p>
         <h1 className="text-6xl font-bold">{ticketList.length}</h1>
       </div>
