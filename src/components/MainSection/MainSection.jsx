@@ -38,7 +38,7 @@ export default function MainSection({ticket}) {
     <ToastContainer />
       <div className="flex flex-col md:flex-row gap-10 space-y-3 mt-10">
        
-      <div className="space-y-3">
+      <div className="space-y-3 ">
         <h1 className="text-xl font-bold">Customer Tickets</h1>
          <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
          {
