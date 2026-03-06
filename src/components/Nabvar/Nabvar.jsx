@@ -21,7 +21,7 @@ export default function Nabvar() {
        <button className='px-4 py-1 bg-violet-500 rounded text-white font-bold'>+ New Ticket</button>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl font-bold">CS-Ticket System</a>
+    <a className="btn btn-ghost text-xl font-bold ">CS-Ticket System</a>
   </div>
   <div className="navbar-end hidden lg:flex">
   <ul className="menu menu-horizontal px-1 space-x-1">
