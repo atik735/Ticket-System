@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login with correct credentials.",
+    "customer": "Rahim Ahmed",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Transaction failed during checkout process.",
+    "customer": "Karim Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-02"
+  },
+  {
+    "id": 3,
+    "title": "Password Reset",
+    "description": "Customer not receiving password reset email.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-02"
+  },
+  {
+    "id": 4,
+    "title": "Slow Website",
+    "description": "Website loading very slowly on mobile devices.",
+    "customer": "Tanvir Hasan",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2026-03-03"
+  },
+  {
+    "id": 5,
+    "title": "Profile Update Error",
+    "description": "Error occurs while updating profile information.",
+    "customer": "Sadia Islam",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-03"
+  },
+  {
+    "id": 6,
+    "title": "Order Not Delivered",
+    "description": "Customer has not received the ordered product.",
+    "customer": "Imran Hossain",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 7,
+    "title": "Email Notification Bug",
+    "description": "System not sending email notifications.",
+    "customer": "Mitu Akter",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 8,
+    "title": "Dashboard Crash",
+    "description": "Admin dashboard crashes after login.",
+    "customer": "Arif Chowdhury",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 9,
+    "title": "Incorrect Invoice",
+    "description": "Invoice shows incorrect total amount.",
+    "customer": "Farhana Yasmin",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-05"
+  },
+  {
+    "id": 10,
+    "title": "Search Not Working",
+    "description": "Search functionality not returning results.",
+    "customer": "Rafiq Alam",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-05"
+  },
+  {
+    "id": 11,
+    "title": "File Upload Failed",
+    "description": "Unable to upload documents in support section.",
+    "customer": "Jannat Sultana",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-05"
+  },
+  {
+    "id": 12,
+    "title": "Account Suspended",
+    "description": "User account suspended without notification.",
+    "customer": "Mahmudul Islam",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "2026-03-05"
+  }
+]
