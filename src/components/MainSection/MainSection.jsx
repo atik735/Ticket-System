@@ -40,7 +40,7 @@ export default function MainSection({ticket}) {
        
       <div className="space-y-3">
         <h1 className="text-xl font-bold">Customer Tickets</h1>
-         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
          {
           ticketData.map((data=><Tickets handleTicket={handleTicket} data={data}></Tickets>))
         }
