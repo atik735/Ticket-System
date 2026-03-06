@@ -17,7 +17,7 @@ export default function Footer() {
         <h1>Conatct Saled</h1>
       </div>
       <div className='flex-1 space-y-3'>
-        <h1 className='text-xl font-bold'>Services</h1>
+        <h1 className='text-xl font-bold '>Services</h1>
         <h1>Product and Services</h1>
         <h1>Customer Starles</h1>
         <h1>Download Services</h1>
