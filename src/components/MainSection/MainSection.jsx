@@ -50,7 +50,7 @@ export default function MainSection({ticket}) {
         <div>
 
           <div>
-            <h1 className="text-xl font-bold">Task Status</h1>
+            <h1 className="text-xl font-bold ">Task Status</h1>
             <div>
              <TaskStatus ticketList={ticketList} handleResolve={handleResolve}></TaskStatus>
             </div>
